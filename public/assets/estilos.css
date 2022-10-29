@@ -1,13 +1,13 @@
-@import url("/public/assets/header.css");
-@import url("/public/assets/usuario.css");
-@import url("/public/assets/main.css");
-@import url("/public/assets/contato.css");
-@import url("/public/assets/rodape.css");
-@import url("/public/assets/banner.css");
-@import url("/public/assets/form.css");
-@import url("/public/assets/produto.css");
-@import url("/public/assets/carrossel.css");
-@import url("/public/assets/diferenciais.css");
+@import url("header.css");
+@import url("usuario.css");
+@import url("main.css");
+@import url("contato.css");
+@import url("rodape.css");
+@import url("banner.css");
+@import url("form.css");
+@import url("produto.css");
+@import url("carrossel.css");
+@import url("diferenciais.css");
 
 :root
     {

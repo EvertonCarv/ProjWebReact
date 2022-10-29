@@ -16,7 +16,7 @@ const Cabecalho = props => {
                             <li class='lista-menu__item'>
                                 <a href='index.html' class='lista-menu__link'>Home</a></li>
                             <li class='lista-menu__item'>
-                                <a href='contato.html' class='lista-menu__link'>Contato</a></li>
+                                <a href='Contato.js' class='lista-menu__link'>Contato</a></li>
                             <li class='lista-menu__item'>
                                 <a href='usuario.html' class='lista-menu__link'>Usuário</a></li>
                             <li class='lista-menu__item'>
@@ -39,7 +39,7 @@ const Cabecalho = props => {
                                 <li class='lista-menu__item'>
                                     <a href='index.html' class='lista-menu__link'>Home</a></li>
                                 <li class='lista-menu__item'>
-                                    <a href='contato.html' class='lista-menu__link'>Contato</a></li>
+                                    <a href='Contato' class='lista-menu__link'>Contato</a></li>
                                 <li class='lista-menu__item'>
                                     <a href='usuario.html' class='lista-menu__link'>Usuário</a></li>
                                 <li class='lista-menu__item'>

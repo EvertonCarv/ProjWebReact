@@ -2,7 +2,7 @@
     {
         width: 40px; /*largura*/
         height: 40px; /*altura*/
-        background-image: url("../img/Menu.svg");
+        background-image: url("./img1/Menu.svg");
         background-repeat: no-repeat;
         background-position: center;
         margin: 10px 10px 0 0;
@@ -11,7 +11,7 @@
 
 .container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer 
     {
-        background-image: url("/img/Menu\ Aberto.png");        
+        background-image: url("./img1/menu_black_24dp\ 1.png");        
     }
 
 .container__botao:checked ~ .container__rotulo 

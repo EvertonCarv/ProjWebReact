@@ -14,7 +14,7 @@ function Main() {
                     </section>
 
 
-                    <div>
+                    <div class='card__background'>
                         <div class='card__descrição'>
                             <h2>Transforme o seu digital. Agora.</h2>
                             <p>A SQuadConect é campeã no conceito de evolução digital.</p>
