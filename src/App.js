@@ -29,7 +29,7 @@ import Cabecalho from "./pages/Main/Cabecalho";
 class App extends Component {
   render() {
     return(
-      <div className="App">
+      <div class="App">
          <Cabecalho />
           <Main />
           <Rodape />         
