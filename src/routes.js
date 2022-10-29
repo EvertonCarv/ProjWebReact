@@ -1,10 +1,10 @@
 import React from 'react';
-import {BrowserRouter, Routes, Route} from 'react-router-dom';
+import {BrowserRouter, Routes, Route, Link} from 'react-router-dom';
 
 
 import Main from './pages/Main';
 import SobreEmpresa from './pages/SobreEmpresa';
-import Contato from './pages/Contato';
+import Contato from './pages/Contato/Contato';
 
 function Rout(){
     return(
@@ -12,7 +12,7 @@ function Rout(){
             <Routes>
                 <Route path="/" exact element={<Main /> } ></Route>
                 <Route path='/sobre-empresa' element={<SobreEmpresa /> } ></Route>
-                <Route path='/contato' element={<Contato /> } ></Route>
+                <Route path='/contatoss' element={<Contato /> } ></Route>
             </Routes>
         </BrowserRouter>
     );

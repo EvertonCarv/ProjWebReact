@@ -1,6 +1,7 @@
 import React from 'react'
 import logo1 from "../Main/Logo-1.jpeg"
 import usuario from "../Main/Usuário.svg"
+import Contato from '../Contato/Contato'
 
 const Cabecalho = props => {
     return(
@@ -16,7 +17,7 @@ const Cabecalho = props => {
                             <li class='lista-menu__item'>
                                 <a href='index.html' class='lista-menu__link'>Home</a></li>
                             <li class='lista-menu__item'>
-                                <a href='Contato.js' class='lista-menu__link'>Contato</a></li>
+                                <Link to='Contato' class='lista-menu__link'>Contato</Link></li>
                             <li class='lista-menu__item'>
                                 <a href='usuario.html' class='lista-menu__link'>Usuário</a></li>
                             <li class='lista-menu__item'>
@@ -39,7 +40,7 @@ const Cabecalho = props => {
                                 <li class='lista-menu__item'>
                                     <a href='index.html' class='lista-menu__link'>Home</a></li>
                                 <li class='lista-menu__item'>
-                                    <a href='Contato' class='lista-menu__link'>Contato</a></li>
+                                    <a href='contato' class='lista-menu__link'>Contato</a></li>
                                 <li class='lista-menu__item'>
                                     <a href='usuario.html' class='lista-menu__link'>Usuário</a></li>
                                 <li class='lista-menu__item'>

@@ -3,7 +3,7 @@ import React from 'react';
 
 
 
-function Contatos() {
+function Contato() {
     return (
         <div>
              <h2>Conteudo</h2>       
@@ -14,4 +14,4 @@ function Contatos() {
 
 }
 
-export default Contatos;
+export default Contato;
